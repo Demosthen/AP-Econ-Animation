@@ -1,2 +1,2 @@
 # AP-Econ-Animation
-Simple animation for my ap econ video
+Simple animation using PyGame for my AP Econ video
